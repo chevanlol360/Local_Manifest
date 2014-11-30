@@ -1,7 +1,7 @@
 Local_Manifest
 ==============
 
-manifest for building cm11/12 for w5
+manifest for building cm11 for w5
 
 
 How to build:
